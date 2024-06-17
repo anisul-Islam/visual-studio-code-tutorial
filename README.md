@@ -17,7 +17,7 @@
 
 ## 4. Activity bar (the left most one)
 
-- it has explorer (cmt+shift+E), search (cmt+shift+F), git, debug(cmt+shift+D), extensions (cmt+shift+X), setup github profile
+- it has explorer (cmt+shift+E), hide sidebar (cmd + B), search (cmt+shift+F), git, debug(cmt+shift+D), extensions (cmt+shift+X), setup github profile
 - we can change the activity bar extensions (fluent icons)
 
 ## 5. basic shortcurs
