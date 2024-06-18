@@ -63,3 +63,46 @@
 ## 9. VSCode theme
 
 - Themes extension: Dark vision < Fleety < Andromeda < Framer dark < Cyberpunk < pro hacker theme < Github theme
+
+## 10. VSCode Extensions
+<!-- 1. Live server -->
+<!-- 2. Live preview -->
+<!-- 3. vscode-pets-->
+<!-- 4. Prettier code formatter -->
+<!-- 5. Auto rename tag -->
+<!-- 6. HTML End tag lables -->
+<!-- 7. Indent Rainbow -->
+<!-- 8. CodeSnap -->
+<!-- 9. Image preview -->
+<!-- 10. Github theme -->
+<!-- 11. Material Icon theme -->
+<!-- 12. Better comments -->
+<!-- 13. Excalidraw -->
+<!-- 14. Liveshare -->
+<!-- 15. Color Highlight -->
+<!-- 16. axe accessibility linter -->
+<!-- 17. HTML To css autocompletion -->
+<!-- 18. BEM helper -->
+<!-- 19. CSS Flexbox cheatsheet -->
+<!-- 20. CSS Navigation -->
+<!-- 21. Javascript (ES6) code snippets -->
+<!-- 22. DOM code snippets -->
+<!-- 23. Error Lens -->
+<!-- 24. Eslint -->
+<!-- 25. npm intellisense -->
+<!-- 26. Import cost -->
+<!-- 27. REST Client -->
+<!-- 28. Thunder Client -->
+<!-- 29. JSON to TS -->
+<!-- 30. Pretty TypeScript Errors -->
+<!-- 31. Markdown preview enhanced -->
+<!-- 32. markdownlint -->
+<!-- 33. Fluent icons -->
+<!-- 34. Andromeda -->
+<!-- 35. Cyberpunk -->
+<!-- 36. pro hacker theme -->
+<!-- 37. ES7 React/Redux/GraphQL/React-Native snippets -->
+<!-- 38. ERD Editor -->
+<!-- 39. Code Spell Checker -->
+<!-- 40. DotEnv -->
+<!-- 41. Git graph -->
