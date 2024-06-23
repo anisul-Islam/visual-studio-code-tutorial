@@ -1,6 +1,7 @@
 # Visual Studio code tutorial
 
 - [download](https://code.visualstudio.com/download) and install the VSCode
+- [VS Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ## 1. Create and open a project in VSCode
 
@@ -20,7 +21,7 @@
 - it has explorer (cmt+shift+E), hide sidebar (cmd + B), search (cmt+shift+F), git, debug(cmt+shift+D), extensions (cmt+shift+X), setup github profile
 - we can change the activity bar extensions (fluent icons)
 
-## 5. basic shortcurs
+## 5. basic shortcuts
 
 - ctrl/cmd + c = copy
 - ctrl/cmd + v = paste
@@ -29,7 +30,7 @@
 - alt/option + up/down => to move something selected
 - ctrl + ` => open terminal
 
-## 6. Advanced shortcurs
+## 6. Advanced shortcuts
 
 - command pallete -> cmd + shift + p => open setting.
 - access file -> cmd + p (handy when you are in zin mode which means can not see explorer)
@@ -37,10 +38,17 @@
 - remove minimap (right side small map) (cmd/crl + , => enabale breadcrumb)
 - open zen mode => view -> apperance -> zen mode (cmd+k then z)
 - expanding and collapsing code
-- navigating tab => cmd+shift+]/[
-- Finding and replacing (cmd + f)
-- cmd + p => try :linenumber => enter
-- cmd + p => try @title => enter
+
+- navigating
+      - tab => cmd+shift+]/[
+      - cmd + p => try :linenumber => enter or ctrl + G (mac/windows)
+      - cmd + p => try @title => enter
+- search and replace
+      - Find (cmd + F)
+      - Replace (cmd + H)
+      - Alt+Enter Select all occurences of Find match
+      - cmd + shift + H => paste the search value => replace with a text => replace all
+
 - text navigating shortcuts
       - option + right arrow => navigate one word to the right
       - option + left arrow => navigate one word to the left
@@ -63,47 +71,3 @@
 ## 9. VSCode theme
 
 - Themes extension: Dark vision < Fleety < Andromeda < Framer dark < Cyberpunk < pro hacker theme < Github theme
-
-## 10. VSCode Extensions
-
-1. Live server
-2. Live preview
-3. vscode-pets
-4. Prettier code formatter
-5. Auto rename tag
-6. HTML End tag lables
-7. Indent Rainbow
-8. CodeSnap
-9. Image preview
-10. Github theme
-11. Material Icon theme
-12. Better comments
-13. Excalidraw
-14. Liveshare
-15. Color Highlight
-16. axe accessibility linter
-17. HTML To css autocompletion
-18. BEM helper
-19. CSS Flexbox cheatsheet
-20. CSS Navigation
-21. Javascript (ES6) code snippets
-22. DOM code snippets
-23. Error Lens
-24. Eslint
-25. npm intellisense
-26. Import cost
-27. REST Client
-28. Thunder Client
-29. JSON to TS
-30. Pretty TypeScript Errors
-31. Markdown preview enhanced
-32. markdownlint
-33. Fluent icons
-34. Andromeda
-35. Cyberpunk
-36. pro hacker theme
-37. ES7 React/Redux/GraphQL/React-Native snippets
-38. ERD Editor
-39. Code Spell Checker
-40. DotEnv
-41. Git graph
